@@ -1,7 +1,7 @@
 name: tbib_font_responsive
 description: A Package for flutter you can control your font you can use google font and responsive.
 version: 2.0.1
-homepage:
+homepage: https://github.com/the-best-is-best/tbib_font_responsive
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
